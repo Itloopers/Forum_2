@@ -1,0 +1,5 @@
+/.gradle/
+/build/
+/bin/*
+/gradle/*
+src/main/java/db/utils/*
